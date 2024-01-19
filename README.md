@@ -10,10 +10,12 @@ Would you like to imagine how a snowman would look in the middle of a desert? Wh
 =
 ![snowmanIColour](https://github.com/Sk4587/Poisson-Image-editing/assets/46374770/cc15e750-63b6-4d76-8c9f-30654f526daa)
 
+Check out the Python notebook for more interesting effects using Poisson Image Editing.
+
 
 ### Why should we care about Image Processing in 2024? 
-Although advanced deep learning techniques can provide multiple solutions, traditional Image Processing still has a lot to offer. Image Processing algorithms are much faster and offer greater transparency in terms of their operations, whereas DL implementations are often hidden within the black box of Neural networks. Image Processing allows us to exercise greater control over what we aim to achieve.
+Although advanced deep learning techniques can provide multiple solutions, traditional Image Processing still has much to offer. Image Processing algorithms are much faster and offer greater transparency in its operations, whereas DL implementations are often hidden within the black box of Neural networks. Image Processing allows us to exercise greater control over what we aim to achieve.
 
 
 ### Note:
-This work is part of my coursework for COMP0026: Image Processing at University College London. The coursework is based on the following paper [Poisson image editing](http://www.irisa.fr/vista/Papers/2003_siggraph_perez.pdf), P. Pérez, M. Gangnet, and A. Blake, Siggraph 2003. The coursework details are given [here](#)
+This work is part of my coursework for COMP0026: Image Processing at University College London. The coursework is based on the following paper [Poisson image editing](http://www.irisa.fr/vista/Papers/2003_siggraph_perez.pdf), P. Pérez, M. Gangnet, and A. Blake, Siggraph 2003. The coursework details are given [here](https://github.com/Sk4587/Poisson-Image-editing/blob/main/Poisson%20Image%20Editing%20Coursework.pdf)
