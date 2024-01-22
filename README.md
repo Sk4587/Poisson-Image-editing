@@ -1,5 +1,7 @@
 # Poisson-Image-editing
 
+This work is part of my coursework for COMP0026: Image Processing at University College London. The coursework is based on the following paper [Poisson image editing](http://www.irisa.fr/vista/Papers/2003_siggraph_perez.pdf), P. Pérez, M. Gangnet, and A. Blake, Siggraph 2003. The coursework details are given [here](https://github.com/Sk4587/Poisson-Image-editing/blob/main/Poisson%20Image%20Editing%20Coursework.pdf) . Copyrights under [Prof. Lourdes De Agapito Vicente](https://profiles.ucl.ac.uk/40331-lourdes-de-agapito-vicente)
+
 Would you like to imagine how a snowman would look in the middle of a desert? While it may seem impossible, we can use Poisson Image Editing to help us visualize it.
 
 <br>
@@ -17,5 +19,4 @@ Check out the Python notebook for more interesting effects using Poisson Image E
 Although advanced deep learning techniques can provide multiple solutions, traditional Image Processing still has much to offer. Image Processing algorithms are much faster and offer greater transparency in its operations, whereas DL implementations are often hidden within the black box of Neural networks. Image Processing allows us to exercise greater control over what we aim to achieve.
 
 
-### Note:
-This work is part of my coursework for COMP0026: Image Processing at University College London. The coursework is based on the following paper [Poisson image editing](http://www.irisa.fr/vista/Papers/2003_siggraph_perez.pdf), P. Pérez, M. Gangnet, and A. Blake, Siggraph 2003. The coursework details are given [here](https://github.com/Sk4587/Poisson-Image-editing/blob/main/Poisson%20Image%20Editing%20Coursework.pdf)
+
